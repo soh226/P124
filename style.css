@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(#036e11, #025f68, #040d8b,#ceb006,#700374,#660303) ;
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px #ff8f00;
+}
+.note{
+    font-size: 15px;
+    color:#94098c;
+}
+.copy_right_footer{
+    position: fixed;
+    color:#06fad0;
+    bottom: 0;
+    width: 100%;
+    background-color:#08a58a;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid hotpink;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px greenyellow;
+}
